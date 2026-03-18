@@ -10,7 +10,6 @@
 ![Wish List](photo/vish_list_1.png)
 ![Recommendations](photo/recomend_vish_list.png)
 
-> Если у файлов другое расширение (например `.jpg`), замени `.png` в ссылках.
 
 ---
 
@@ -91,7 +90,7 @@
 ### 1) Установить зависимости
 ```bash
 pip install pandas numpy scikit-learn requests pillow
-
+```
 ###2) Добавить VK токен
 
 Создай файл token.txt в корне проекта и вставь туда VK access_token с правами:
